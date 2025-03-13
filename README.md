@@ -16,7 +16,7 @@ A basic Vehicle Management System built using Kotlin that allows users to view v
 ## How to Run the Project?
 
 * Clone the Repository
-https://github.com/YourGitHub/VehicleManagementSystem.git
+https://github.com/Omkar3101/Kotlin7_VehicleManagementSystem.git
 
 * Open in IntelliJ IDEA
 
@@ -129,7 +129,7 @@ fun main() {
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 ## Let's Connect
-LinkedIn
-GitHub
+[LinkedIn](https://www.linkedin.com/in/omkar3101)
+[GitHub](https://github.com/Omkar3101)
 
 
