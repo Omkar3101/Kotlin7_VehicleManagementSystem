@@ -1,4 +1,4 @@
-# Vehicle Management System
+ Vehicle Management System
 
 A basic Vehicle Management System built using Kotlin that allows users to view vehicle details. This project is part of my Kotlin learning journey and focuses on OOP concepts like classes, inheritance, and interfaces.
 
@@ -126,7 +126,7 @@ fun main() {
 🔹 Graphical UI version instead of console-based
 
 ## License
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/Omkar3101/Kotlin7_VehicleManagementSystem/blob/main/LICENSE) file for details.
 
 ## Let's Connect
 [LinkedIn](https://www.linkedin.com/in/omkar3101)
